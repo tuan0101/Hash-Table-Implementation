@@ -1,0 +1,471 @@
+-----------------------------     --->	-----------------------------     --->	-----------------------------
+Student ID: 542165			Student ID: 636274			Student ID: 941573
+Student Name: Charlsie Jusino		Student Name: Socorro Quashie		Student Name: Donald Bergeson
+Student hash key: 0			Student hash key: 0			Student hash key: 0
+Student original position: 49		Student original position: 59		Student original position: 93
+-----------------------------     	-----------------------------     	-----------------------------
+
+-----------------------------     --->	-----------------------------
+Student ID: 575670			Student ID: 610858
+Student Name: Sal Bernhard		Student Name: Marybeth Mullaney
+Student hash key: 1			Student hash key: 1
+Student original position: 53		Student original position: 57
+-----------------------------     	-----------------------------
+
+-----------------------------
+Student ID: 342880
+Student Name: Wilber Winkles
+Student hash key: 2
+Student original position: 26
+-----------------------------
+
+-----------------------------
+empty
+-----------------------------
+
+-----------------------------     --->	-----------------------------     --->	-----------------------------
+Student ID: 361296			Student ID: 801352			Student ID: 919913
+Student Name: Sunshine Collum		Student Name: Lino Tudor		Student Name: Ahmad Durgan
+Student hash key: 4			Student hash key: 4			Student hash key: 4
+Student original position: 29		Student original position: 79		Student original position: 91
+-----------------------------     	-----------------------------     	-----------------------------
+
+-----------------------------     --->	-----------------------------
+Student ID: 277170			Student ID: 514909
+Student Name: Carissa Causby		Student Name: Shandra Dempster
+Student hash key: 5			Student hash key: 5
+Student original position: 21		Student original position: 45
+-----------------------------     	-----------------------------
+
+-----------------------------
+Student ID: 340558
+Student Name: Miguelina Wickert
+Student hash key: 6
+Student original position: 25
+-----------------------------
+
+-----------------------------
+Student ID: 987378
+Student Name: Lorilee Calbert
+Student hash key: 7
+Student original position: 100
+-----------------------------
+
+-----------------------------     --->	-----------------------------
+Student ID: 355935			Student ID: 879460
+Student Name: Luetta Alkire		Student Name: Vaughn Tull
+Student hash key: 8			Student hash key: 8
+Student original position: 27		Student original position: 87
+-----------------------------     	-----------------------------
+
+-----------------------------
+empty
+-----------------------------
+
+-----------------------------
+empty
+-----------------------------
+
+-----------------------------     --->	-----------------------------     --->	-----------------------------
+Student ID: 121477			Student ID: 724578			Student ID: 871646
+Student Name: Barrie Shear		Student Name: Karena Deborde		Student Name: Candace Orrell
+Student hash key: 11			Student hash key: 11			Student hash key: 11
+Student original position: 5		Student original position: 69		Student original position: 85
+-----------------------------     	-----------------------------     	-----------------------------
+
+-----------------------------
+Student ID: 945373
+Student Name: Caitlyn Linville
+Student hash key: 12
+Student original position: 94
+-----------------------------
+
+-----------------------------
+Student ID: 561679
+Student Name: Lester Fisler
+Student hash key: 13
+Student original position: 51
+-----------------------------
+
+-----------------------------
+empty
+-----------------------------
+
+-----------------------------
+Student ID: 120368
+Student Name: Flo Aguero
+Student hash key: 15
+Student original position: 4
+-----------------------------
+
+-----------------------------
+empty
+-----------------------------
+
+-----------------------------     --->	-----------------------------
+Student ID: 105325			Student ID: 408192
+Student Name: Harris Haskett		Student Name: Raleigh Steveson
+Student hash key: 17			Student hash key: 17
+Student original position: 2		Student original position: 33
+-----------------------------     	-----------------------------
+
+-----------------------------
+Student ID: 956116
+Student Name: Sheldon Delnero
+Student hash key: 18
+Student original position: 97
+-----------------------------
+
+-----------------------------
+Student ID: 320372
+Student Name: Aisha Diehm
+Student hash key: 19
+Student original position: 24
+-----------------------------
+
+-----------------------------
+empty
+-----------------------------
+
+-----------------------------     --->	-----------------------------
+Student ID: 558387			Student ID: 564477
+Student Name: Willena Schuman		Student Name: Liliana Fallin
+Student hash key: 21			Student hash key: 21
+Student original position: 50		Student original position: 52
+-----------------------------     	-----------------------------
+
+-----------------------------
+Student ID: 777262
+Student Name: Dayle Sippel
+Student hash key: 22
+Student original position: 76
+-----------------------------
+
+-----------------------------     --->	-----------------------------
+Student ID: 202670			Student ID: 724322
+Student Name: Tuan Welch		Student Name: Joette Lovin
+Student hash key: 23			Student hash key: 23
+Student original position: 14		Student original position: 68
+-----------------------------     	-----------------------------
+
+-----------------------------     --->	-----------------------------
+Student ID: 516070			Student ID: 958947
+Student Name: Williams Ehrman		Student Name: Berniece Manning
+Student hash key: 24			Student hash key: 24
+Student original position: 46		Student original position: 98
+-----------------------------     	-----------------------------
+
+-----------------------------
+Student ID: 102094
+Student Name: Jospeh Bissell
+Student hash key: 25
+Student original position: 1
+-----------------------------
+
+-----------------------------     --->	-----------------------------
+Student ID: 480777			Student ID: 798165
+Student Name: Earlene Hoag		Student Name: Terrilyn Umphrey
+Student hash key: 26			Student hash key: 26
+Student original position: 42		Student original position: 78
+-----------------------------     	-----------------------------
+
+-----------------------------
+Student ID: 813387
+Student Name: Kacy Reichenbach
+Student hash key: 27
+Student original position: 81
+-----------------------------
+
+-----------------------------
+empty
+-----------------------------
+
+-----------------------------
+Student ID: 901654
+Student Name: Rosalinda Jeske
+Student hash key: 29
+Student original position: 88
+-----------------------------
+
+-----------------------------     --->	-----------------------------
+Student ID: 433798			Student ID: 723435
+Student Name: Gwenn Beckham		Student Name: Lynn Magana
+Student hash key: 30			Student hash key: 30
+Student original position: 36		Student original position: 67
+-----------------------------     	-----------------------------
+
+-----------------------------     --->	-----------------------------     --->	-----------------------------
+Student ID: 479403			Student ID: 531806			Student ID: 739116
+Student Name: Sherryl Cybulski		Student Name: Sharolyn Buchanon		Student Name: Fernanda Weatherford
+Student hash key: 31			Student hash key: 31			Student hash key: 31
+Student original position: 41		Student original position: 48		Student original position: 72
+-----------------------------     	-----------------------------     	-----------------------------
+
+-----------------------------
+Student ID: 759181
+Student Name: Rubye Palladino
+Student hash key: 32
+Student original position: 73
+-----------------------------
+
+-----------------------------     --->	-----------------------------     --->	-----------------------------
+Student ID: 208700			Student ID: 693371			Student ID: 769664
+Student Name: Deneen Eriksen		Student Name: Suzette Glanz		Student Name: Minda Updike
+Student hash key: 33			Student hash key: 33			Student hash key: 33
+Student original position: 15		Student original position: 64		Student original position: 75
+-----------------------------     	-----------------------------     	-----------------------------
+
+-----------------------------
+empty
+-----------------------------
+
+-----------------------------     --->	-----------------------------
+Student ID: 527271			Student ID: 601521
+Student Name: Rodrigo Kistler		Student Name: Columbus Pascarelli
+Student hash key: 35			Student hash key: 35
+Student original position: 47		Student original position: 55
+-----------------------------     	-----------------------------
+
+-----------------------------     --->	-----------------------------     --->	-----------------------------
+Student ID: 269680			Student ID: 663413			Student ID: 690615
+Student Name: Monica Legg		Student Name: Isaias Roussel		Student Name: Andreas Brogden
+Student hash key: 36			Student hash key: 36			Student hash key: 36
+Student original position: 19		Student original position: 61		Student original position: 63
+-----------------------------     	-----------------------------     	-----------------------------
+
+-----------------------------
+Student ID: 675535
+Student Name: Thelma Ownbey
+Student hash key: 37
+Student original position: 62
+-----------------------------
+
+-----------------------------     --->	-----------------------------
+Student ID: 221912			Student ID: 359328
+Student Name: Jena Wenner		Student Name: Destiny Kaelin
+Student hash key: 38			Student hash key: 38
+Student original position: 16		Student original position: 28
+-----------------------------     	-----------------------------
+
+-----------------------------
+empty
+-----------------------------
+
+-----------------------------
+Student ID: 914913
+Student Name: Wilford Foxx
+Student hash key: 40
+Student original position: 90
+-----------------------------
+
+-----------------------------     --->	-----------------------------
+Student ID: 416010			Student ID: 638630
+Student Name: Juliet Mcquiston		Student Name: Lawanna Gusler
+Student hash key: 41			Student hash key: 41
+Student original position: 34		Student original position: 60
+-----------------------------     	-----------------------------
+
+-----------------------------
+empty
+-----------------------------
+
+-----------------------------     --->	-----------------------------
+Student ID: 180900			Student ID: 189193
+Student Name: Kristie Kellems		Student Name: Babette Lerner
+Student hash key: 43			Student hash key: 43
+Student original position: 11		Student original position: 12
+-----------------------------     	-----------------------------
+
+-----------------------------
+Student ID: 839818
+Student Name: Melba Semple
+Student hash key: 44
+Student original position: 82
+-----------------------------
+
+-----------------------------
+Student ID: 286410
+Student Name: Shira Nishioka
+Student hash key: 45
+Student original position: 22
+-----------------------------
+
+-----------------------------
+Student ID: 143538
+Student Name: Vivan Judson
+Student hash key: 46
+Student original position: 9
+-----------------------------
+
+-----------------------------
+Student ID: 224938
+Student Name: Rory Laidlaw
+Student hash key: 47
+Student original position: 17
+-----------------------------
+
+-----------------------------     --->	-----------------------------     --->	-----------------------------
+Student ID: 487596			Student ID: 625962			Student ID: 761706
+Student Name: Riva Mauricio		Student Name: Clora People		Student Name: Regina Burns
+Student hash key: 48			Student hash key: 48			Student hash key: 48
+Student original position: 43		Student original position: 58		Student original position: 74
+-----------------------------     	-----------------------------     	-----------------------------
+
+-----------------------------     --->	-----------------------------
+Student ID: 440217			Student ID: 857647
+Student Name: Danuta Yarger		Student Name: Sheilah Lesh
+Student hash key: 49			Student hash key: 49
+Student original position: 38		Student original position: 83
+-----------------------------     	-----------------------------
+
+-----------------------------
+empty
+-----------------------------
+
+-----------------------------
+empty
+-----------------------------
+
+-----------------------------     --->	-----------------------------     --->	-----------------------------
+Student ID: 276790			Student ID: 457039			Student ID: 722518
+Student Name: Travis Reiman		Student Name: Florinda Nichol		Student Name: Daysi Elliff
+Student hash key: 52			Student hash key: 52			Student hash key: 52
+Student original position: 20		Student original position: 39		Student original position: 66
+-----------------------------     	-----------------------------     	-----------------------------
+
+-----------------------------     --->	-----------------------------     --->	-----------------------------     --->	-----------------------------
+Student ID: 126197			Student ID: 127544			Student ID: 903382			Student ID: 930797
+Student Name: Latasha Haus		Student Name: Pedro Banda		Student Name: Trang Spada		Student Name: Tomeka Lawless
+Student hash key: 53			Student hash key: 53			Student hash key: 53			Student hash key: 53
+Student original position: 6		Student original position: 7		Student original position: 89		Student original position: 92
+-----------------------------     	-----------------------------     	-----------------------------     	-----------------------------
+
+-----------------------------
+empty
+-----------------------------
+
+-----------------------------     --->	-----------------------------     --->	-----------------------------
+Student ID: 148830			Student ID: 706913			Student ID: 879187
+Student Name: Karry Haugland		Student Name: Opal Twining		Student Name: Marisa Becerra
+Student hash key: 55			Student hash key: 55			Student hash key: 55
+Student original position: 10		Student original position: 65		Student original position: 86
+-----------------------------     	-----------------------------     	-----------------------------
+
+-----------------------------     --->	-----------------------------
+Student ID: 604486			Student ID: 868638
+Student Name: Margert Farnum		Student Name: Marty Mares
+Student hash key: 56			Student hash key: 56
+Student original position: 56		Student original position: 84
+-----------------------------     	-----------------------------
+
+-----------------------------
+Student ID: 401445
+Student Name: Valeri Swiney
+Student hash key: 57
+Student original position: 31
+-----------------------------
+
+-----------------------------
+Student ID: 189688
+Student Name: Hayley Shuffler
+Student hash key: 58
+Student original position: 13
+-----------------------------
+
+-----------------------------     --->	-----------------------------
+Student ID: 406702			Student ID: 736205
+Student Name: Ellen Goltz		Student Name: Harriett Hanford
+Student hash key: 59			Student hash key: 59
+Student original position: 32		Student original position: 71
+-----------------------------     	-----------------------------
+
+-----------------------------
+empty
+-----------------------------
+
+-----------------------------
+empty
+-----------------------------
+
+-----------------------------
+empty
+-----------------------------
+
+-----------------------------
+empty
+-----------------------------
+
+-----------------------------
+Student ID: 950315
+Student Name: Johnathan Beckham
+Student hash key: 64
+Student original position: 96
+-----------------------------
+
+-----------------------------     --->	-----------------------------
+Student ID: 141093			Student ID: 981204
+Student Name: Argentina Heckman		Student Name: Kelly Burmeister
+Student hash key: 65			Student hash key: 65
+Student original position: 8		Student original position: 99
+-----------------------------     	-----------------------------
+
+-----------------------------
+empty
+-----------------------------
+
+-----------------------------     --->	-----------------------------
+Student ID: 365858			Student ID: 473911
+Student Name: Athena Rupp		Student Name: Karmen Pasha
+Student hash key: 67			Student hash key: 67
+Student original position: 30		Student original position: 40
+-----------------------------     	-----------------------------
+
+-----------------------------
+Student ID: 418102
+Student Name: Nickie Muise
+Student hash key: 68
+Student original position: 35
+-----------------------------
+
+-----------------------------     --->	-----------------------------
+Student ID: 596867			Student ID: 803158
+Student Name: Jone Saito		Student Name: Jutta Schon
+Student hash key: 69			Student hash key: 69
+Student original position: 54		Student original position: 80
+-----------------------------     	-----------------------------
+
+-----------------------------     --->	-----------------------------     --->	-----------------------------
+Student ID: 257331			Student ID: 493204			Student ID: 730970
+Student Name: Alicia Craycraft		Student Name: Deon Futral		Student Name: Sharolyn Goers
+Student hash key: 70			Student hash key: 70			Student hash key: 70
+Student original position: 18		Student original position: 44		Student original position: 70
+-----------------------------     	-----------------------------     	-----------------------------
+
+-----------------------------     --->	-----------------------------
+Student ID: 118455			Student ID: 785753
+Student Name: Natasha Elswick		Student Name: Moshe Parsley
+Student hash key: 71			Student hash key: 71
+Student original position: 3		Student original position: 77
+-----------------------------     	-----------------------------
+
+-----------------------------
+Student ID: 948558
+Student Name: Annabelle Burgan
+Student hash key: 72
+Student original position: 95
+-----------------------------
+
+-----------------------------
+Student ID: 435820
+Student Name: Elodia Bomba
+Student hash key: 73
+Student original position: 37
+-----------------------------
+
+-----------------------------
+Student ID: 316633
+Student Name: Ewa Crowl
+Student hash key: 74
+Student original position: 23
+-----------------------------
+

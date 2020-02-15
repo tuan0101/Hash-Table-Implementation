@@ -24,7 +24,7 @@ Student::Student(int ID, int originalPos, int hashKey, string name)
 	this->name = name;
 	this->next = NULL;
 }
-int Student::hashing(int ID, int size)
+int Student::Hashing(int ID, int size)
 {
 	unsigned int index;
 	hash<int> h;
@@ -61,7 +61,7 @@ void Student::Add(int ID, int originalPos, int hashKey, string name)
 	}
 }
 
-void Student::printTable()
+void Student::PrintTable()
 {
 	Student *student = this;
 	if (studentID == NULL)
@@ -122,7 +122,7 @@ void Student::printTable()
 	}
 }
 
-void Student::writeToFile(ofstream &myFile)
+void Student::WriteToFile(ofstream &myFile)
 {
 	Student *student = this;
 	if (myFile.is_open()) {
@@ -187,7 +187,7 @@ void Student::writeToFile(ofstream &myFile)
 	else cout << "Unable to open file";
 }
 
-void Student::toString()
+void Student::ToString()
 {
 	cout << "-----------------------------\n";
 	cout << "Student ID: " << studentID << endl;

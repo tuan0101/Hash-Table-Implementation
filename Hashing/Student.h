@@ -22,7 +22,7 @@ public:
 	~Student();
 
 	//hash student ID to get the table index
-	int hashing(int ID, int size);
+	int Hashing(int ID, int size);
 
 	/*
 	if there is no student stored in the index, display "empty"
@@ -30,13 +30,13 @@ public:
 	*/
 	void Add(int ID, int originalPos, int hashKey, string name);
 
-	//Print the whole hash table to the console as needed for testing
-	void printTable();
+	//print the whole hash table to the console as needed for testing
+	void PrintTable();
 
-	//dis play student's information to the console
-	void toString();
+	//display student's information to the console
+	void ToString();
 
 	//write the student's information to StudentHashTable.txt file
-	void writeToFile(ofstream &myFile);
+	void WriteToFile(ofstream &myFile);
 };
 
